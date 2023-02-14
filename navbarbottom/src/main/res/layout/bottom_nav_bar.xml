@@ -11,7 +11,7 @@
         android:layout_height="1dp"
         android:layout_marginBottom="24dp"
         android:layout_marginTop="31dp"
-        android:background="@android:color/black"
+
         app:layout_constraintBottom_toTopOf="@+id/primaryText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
